@@ -1,0 +1,14 @@
+body {
+    background-color: #16151a;
+}
+
+.topLink {
+    color: gray;
+    cursor: pointer;
+    padding-left: 10px;
+}
+
+.CER {
+    color: white;
+}
+
